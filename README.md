@@ -83,10 +83,16 @@ Divirta-se testando seus reflexos e habilidades com o **Detona Ralph**! 🚀
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Detona Ralph 🕹️](https://erikcesartavares.github.io/Detona-Ralph---Jogo-Interativo/)
+
+---
+
 ## 🧠 Como Usar
 
 ### Passo 1: Clone o repositório
-Clone o repositório no seu computador utilizando o Git:
 
-```bash
 git clone https://github.com/ErikCesarTavares/Detona-Ralph---Jogo-Interativo.git
